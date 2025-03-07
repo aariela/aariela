@@ -1,7 +1,7 @@
 ## Hi there! I'm Aariel 👋
 💻 Software Engineering Student at UC Irvine
 
-🚀 Passionate about web development, software testing, and UI/UX
+🚀 Passionate about Product Management, Software Engineering, Web Development, Software Testing, and UI/UX
 
 👯 I’m looking to collaborate on innovative projects that make meaningful impact!
 
