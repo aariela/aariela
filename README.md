@@ -20,7 +20,7 @@ Interests: Product Management, Software Engineering, Software Quality Engineerin
 
 ## 📌 Projects & Experience
 
-🔹 UbeBytes - Full-stack platform connecting researchers & students at UCI
+🔹 ZotLabs - Full-stack platform connecting researchers & students at UCI
 
 🔹 FuSite - Built and maintained FUSION’s official website with React & Tailwind
 
